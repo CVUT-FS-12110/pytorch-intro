@@ -1,8 +1,19 @@
 # Introduction to Pytorch for Engineers
 
+## Before the Course
+
+The provided notebooks are tested with Python 3.10.
+All required libraries are listed in `requirements.txt`. 
+You can install them as follows:
+
+> pip install -r requirements.txt
+
+Before diving into PyTorch, ensure you have a basic understanding of Python.
+Check out the following notebook:
+
 0. [Prerequisites](resources/prerequisites.ipynb) - *What You Should Know Before You Start*
    
-   - Before diving into PyTorch, ensure you have a basic understanding of Python.
+ ## Course Content
 
 1. [Introduction to PyTorch](resources/introduction.ipynb) - *Why It's So Great*
 
@@ -16,7 +27,7 @@
 
    - Understand how PyTorch handles data through `Dataset` and `DataLoader` classes.
 
-4. [Using Popular Models](resources/popular_models.ipynb) - *Importing Pre-trained Models or Backbones from Torchvision*  
+4. [Using Popular Pre-trained Models](resources/popular_models.ipynb) - *Importing Pre-trained Models or Backbones from Torchvision*  
    
    - Explore how to leverage pre-trained models or use backbone architectures from Torchvision. 
 
