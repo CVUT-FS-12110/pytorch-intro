@@ -19,19 +19,23 @@ Check out the following notebook:
 
    - In this section, we'll introduce PyTorch and highlight its strengths.
 
-2. [Models and Training](resources/first_model.ipynb) - *Training and Validating a Simple Classification Model*  
+1. [Models and Training](resources/first_model.ipynb) - *Training and Validating a Simple Classification Model*  
 
    - Learn how to train and validate a simple classification model. 
 
-3. [Datasets and Dataloaders](resources/dataloaders.ipynb) - *Training a Model with Dataset and Dataloader*  
+1. [Datasets and Dataloaders](resources/dataloaders.ipynb) - *Training a Model with Dataset and Dataloader*  
 
    - Understand how PyTorch handles data through `Dataset` and `DataLoader` classes.
 
-4. [Using Popular Pre-trained Models](resources/popular_models.ipynb) - *Importing Pre-trained Models or Backbones from Torchvision*  
+1. [Convolutional Neural Networks](resources/convolution.ipynb) - *Understanding and Applying the Basics*
    
-   - Explore how to leverage pre-trained models or use backbone architectures from Torchvision. 
+   - Explore practical tricks and best practices for working with convolutional layers effectively.
 
-5. [Data Augmentation](resources/augmentation.ipynb) - *Because More is Better*
+1. [Using Popular Pre-trained Models](resources/popular_models.ipynb) - *Importing Pre-trained Models or Backbones from Torchvision*  
+   
+   - Explore how to leverage pre-trained models or use backbone architectures from `Torchvision`. 
+
+1. [Data Augmentation](resources/augmentation.ipynb) - *Because More is Better*
    
    - Learn the importance of data augmentation in improving model generalization. 
 
