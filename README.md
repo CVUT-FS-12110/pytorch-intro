@@ -1,5 +1,7 @@
 # Introduction to Pytorch for Engineers
 
+This course provides a hands-on introduction to PyTorch, a powerful deep learning framework, tailored for engineers. Participants will learn the essentials of PyTorch, from building and training models to leveraging pre-trained architectures. Key topics include handling datasets, creating convolutional neural networks, and applying data augmentation techniques. The course emphasizes practical applications, providing foundational knowledge and best practices for deep learning projects.
+
 ## Before the Course
 
 The provided notebooks are tested with Python 3.10.
