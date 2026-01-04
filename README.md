@@ -25,6 +25,12 @@ Check out the following notebook:
 
    - Learn how to train and validate a simple classification model. 
 
+1. [Sample Size and Training Monitoring](resources/mlp_classification.ipynb) - *Variance under Limited Data*
+
+   - Study how training behavior changes as a function of dataset size using a multilayer perceptron.
+
+   - Analyze the effect of random train/validation splits on performance stability.
+
 1. [Datasets and Dataloaders](resources/dataloaders.ipynb) - *Training a Model with Dataset and Dataloader*  
 
    - Understand how PyTorch handles data through `Dataset` and `DataLoader` classes.
