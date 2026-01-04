@@ -25,7 +25,7 @@ Check out the following notebook:
 
    - Learn how to train and validate a simple classification model. 
 
-1. [Sample Size and Training Monitoring](resoruces/mlp_classificaton.ipynb) - *Variance under Limited Data*
+1. [Sample Size and Training Monitoring](resources/mlp_classificaton.ipynb) - *Variance under Limited Data*
 
    - Study how training behavior changes as a function of dataset size using a multilayer perceptron.
 
