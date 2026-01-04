@@ -1,5 +1,6 @@
 resources/data/MNIST
 resources/data/omniglot-py
+resources/data/global-wheat-codalab-official/
 resources/temp/
 
 # Byte-compiled / optimized / DLL files
